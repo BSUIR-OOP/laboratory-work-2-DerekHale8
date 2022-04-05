@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab2OOP</string>
+
+    <string-array name="figuresNames">
+        <item>Line</item>
+        <item>Triangle</item>
+        <item>Rectangle</item>
+        <item>Square</item>
+        <item>Ellipse</item>
+        <item>Circle</item>
+    </string-array>
+</resources>
