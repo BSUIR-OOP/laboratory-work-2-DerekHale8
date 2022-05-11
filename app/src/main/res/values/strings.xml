@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2.2OOP</string>
+    <string-array name="shapeList">
+        <item>Линия</item>
+        <item>Треугольник</item>
+        <item>Прямоугольник</item>
+        <item>Квадрат</item>
+        <item>Эллипс</item>
+        <item>Круг</item>
+    </string-array>
+</resources>
